@@ -17,7 +17,7 @@ na Universidade do Vale do Itajaí na modalidade de ensino superior,
 salvo a egressos que serão aceitos caso o número de equipes não atinja
 seu número máximo.
 
-2. O campeonato está RESERVADO a estudantes do curso de engenharia
+2. O campeonato está **RESERVADO** a estudantes do curso de engenharia
 de computação e professores durante a 1º etapa de inscrições (-/- a
 -/-).
 
@@ -200,6 +200,63 @@ campeonato.
 2. O juiz deverá se comportar de maneira profissional durante todo o tempo, e deverá tomar decisões de maneira imparcial e sem paixão ou preconceito em relação a qualquer jogador, equipe, técnico, patrocinador ou indivíduo.
 
 ## Conduta dos Jogadores
+
+1. Os jogadores devem respeitar as regras do jogo e as decisões dos juízes em todas as partidas.
+
+2. É proibido o uso de qualquer tipo de trapaça ou conduta anti-esportiva como: 
+
+  - **Conspiração:** é definida como qualquer acordo entre dois (2) ou mais jogadores e/ou equipes que tem como finalidade prejudicar outra equipe ou jogador;
+  - **Integridade Competitiva:** Espera-se que as equipes joguem o seu melhor em todos os momentos durante o torneio, e evitem qualquer comportamento incompatível     com os princípios do espírito esportivo e fairplay. Para fins de esclarecimento, a composição de times e a fase de pick/ban não serão consideradas quando           analisado se esta regra foi violada ou não;
+  - **Hacking:** Hacking é definido por qualquer alteração ou modificação feita no cliente do Counter Strike por jogador, time, ou qualquer pessoa que tenha agido em   nome de um jogador ou time;
+  - **Compartilhamento de Conta:** Jogar na conta de outro jogador ou solicitar, induzir, estimular alguém a jogar na conta de outro jogador;
+  - **Programas de Trapaça:** O uso de qualquer ferramenta ou programa com a finalidade de trapacear;
+  - **Desconexão intencional:** Desconectar-se de um jogo sem ter razão ou motivo;
+  - **Ofensas e Discurso de Ódio:** O membro de uma equipe não pode usar linguagem obscena, chula, vulgar, insultos, ameaças, abusos, calúnia, difamação ou portar-se de qualquer maneira ofensiva ou repreensível, nem promover ou incitar ódio ou conduta discriminatória;
+  - **Comportamento Disruptivo/Insultos:** O membro de uma equipe não pode tomar qualquer ação ou executar qualquer gesto, ou incitar qualquer indivíduo a fazer o mesmo, que seja direcionado ao time adversário em uma natureza insultuosa, zombeteira ou perturbadora.
+
+3. É proibido o consumo de bebidas alcoólicas ou drogas durante o campeonato. Caso um jogador seja flagrado consumindo esse tipo de substância, a equipe será desclassificada.
+
+4. Os jogadores devem comparecer às partidas no horário estabelecido pela organização do evento. Atrasos não serão tolerados e a equipe poderá ser penalizada.
+
+5. Os jogadores devem manter o ambiente limpo e organizado, não sendo permitido deixar lixo ou sujeira nas áreas comuns do evento.
+
+6. É proibido danificar ou causar qualquer tipo de prejuízo às instalações do evento. Caso um jogador cause danos, a equipe será responsável pelo pagamento dos reparos.
+
+## Premiação
+
+1. A premiação do campeonato será divulgada antes do início do torneio.
+
+2. A premiação será entregue apenas às equipes que cumprirem todas as regras estabelecidas neste regulamento.
+
+3. A equipe vencedora do torneio receberá a maior parte da premiação, sendo o valor dividido entre os jogadores de acordo com o acordo prévio entre eles.
+
+4. As demais colocações receberão prêmios menores, que também serão divididos entre os jogadores de cada equipe.
+
+5. A organização do evento se reserva ao direito de alterar a premiação a qualquer momento, desde que seja justificado e comunicado previamente às equipes participantes.
+
+6. As equipes vencedoras serão anunciadas e premiadas ao final do torneio. É responsabilidade de cada equipe estar presente na cerimônia de premiação para receber seu prêmio.
+
+## Disposições Finais
+
+1. A organização do evento se reserva ao direito de alterar qualquer item deste regulamento a qualquer momento, caso julgue necessário.
+
+2. Qualquer situação não prevista neste regulamento será avaliada pela organização do evento, que tomará a melhor decisão para garantir a justiça e a transparência do torneio.
+
+3. Ao se inscrever no Campeonato Universitário de Counter Strike, as equipes concordam em cumprir integralmente este regulamento e todas as decisões tomadas pela organização do evento.
+
+4. Este regulamento é valido para a segunda metade do ano de dois mil e vinte e três (2023).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
