@@ -68,8 +68,7 @@ semifinais e finais em formato melhor-de-três.
 será jogado para determinar o vencedor. O período de prorrogação
 será jogado em formato melhor-de-seis rounds.
 
-4. Os horários das partidas poderão ser adiantados, ficando a respon-
-sabilidade da equipe comparecer no novo horário. Atrasos não serão
+4. Os horários das partidas poderão ser adiantados, ficando a responsabilidade da equipe comparecer no novo horário. Atrasos não serão
 tolerados.
 
 5. A organização do evento se reserva ao direito de alterar o formato do
