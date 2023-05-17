@@ -55,9 +55,11 @@ equipes já tenha sido alcançado.
 ## Formato do Torneio
 
 1. O campeonato será realizado no formato mata-mata, onde as equipes
-jogam partidas umas contra as outra até que haja um vencedor,
+jogam partidas umas contra as outra até que haja um vencedor.
 
-![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/1%20Torneio%20Universitario%20de%20Counter%20Strike-1.png)
+|Figura 1 - Formato de Tabela|
+|:------:|
+| ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/tournament-brackets.png)|s|
 
 2. As partidas serão jogadas em formato melhor-de-um durante o torneio,
 semifinais e finais em formato melhor-de-três.
