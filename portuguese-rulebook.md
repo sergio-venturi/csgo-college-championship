@@ -13,24 +13,13 @@ CS:GO.
 ### Elegibilidade
 
 1. Todos os jogadores inscritos devem estar devidamente matriculados
-na Universidade do Vale do Itajaí na modalidade de ensino superior,
-salvo a egressos que serão aceitos caso o número de equipes não atinja
+na Universidade do Vale do Itajaí na modalidade de ensino superior
+(professores universitários também serão aceitos).
+
+2. Egressos serão aceitos caso o número de equipes não atinja
 seu número máximo.
 
-2. O campeonato está **RESERVADO** a estudantes do curso de engenharia
-de computação e professores durante a 1º etapa de inscrições (-/- a
--/-).
-
-3. A 2º etapa de inscrições (-/- a -/-) estará aberta para equipes com
-pelo menos três membros "titulares"estudantes do curso de engenharia
-de computação (consulte a seção 1.8 - Regras Para Formação para
-mais informações).
-
-4. A 3º etapa de inscrições (-/- a -/-) estará aberta a todos os estudantes
-universitários, caso a 1º e 2º etapa de inscrições não atinjam o número
-máximo de equipes do torneio.
-
-5. O número máximo de equipes é definida em dezesseis (16) equipes.
+3. O número máximo de equipes é definida em dezesseis (16) equipes.
 
 ## Inscrição
 
@@ -123,22 +112,17 @@ bem como, de forma opcional, um (1) técnico “Coach”, formando a (“Equipe 
 
 2. Nenhum indivíduo pode simultaneamente ocupar mais de um papel dos listados acima.
 
-3. É permitido que uma equipe seja formada por jogadores de diferentes cursos, desde 
-que tenha sido inscrita durante a segunda ou terceira etapa de inscrições.
+3. É permitido que uma equipe seja formada por jogadores de diferentes cursos.
 
-4. A formação da equipe com jogadores de outros cursos inscrita na 2º etapa de 
-inscrições deverá manter os jogares cursantes de engenharia de computação como 
-"titulares" por no mínimo duas partidas (rounds não são contabilizados como partidas).
-
-5. É proibida a utilização de jogadores que não estejam inscritos na equipe. Caso uma 
+4. É proibida a utilização de jogadores que não estejam inscritos na equipe. Caso uma 
 equipe utilize um jogador que não esteja inscrito, a equipe será desclassificada.
 
-6. A formação do time deve ser feita antes do início do torneio e não pode ser alterada 
+5. A formação do time deve ser feita antes do início do torneio e não pode ser alterada 
 após o início das partidas.
 
-7. Não é permitido que um jogador jogue por mais de uma equipe.
+6. Não é permitido que um jogador jogue por mais de uma equipe.
 
-8. Cada equipe poderá designar um técnico, sendo que:
+7. Cada equipe poderá designar um técnico, sendo que:
 
   > >  I.   O técnico não pode ser um jogador titular ou reserva;
   >
@@ -147,10 +131,10 @@ após o início das partidas.
   > >  III. A entrada de técnicos está sujeita a alterações futuras (os times serão devidamente 
   informados em caso de alterações).
   
-9. A formação do time é de responsabilidade exclusiva da equipe. A organização do evento não se 
+8. A formação do time é de responsabilidade exclusiva da equipe. A organização do evento não se 
 responsabiliza por problemas relacionados à formação do time.
 
-10. Alterações na equipe titular podem ocorrer de acordo com a secção \ref{sec:Substituição de jogadores}
+9. Alterações na equipe titular podem ocorrer de acordo com a secção **Substituição de Jogadores**
 
 ## Identificação
 
