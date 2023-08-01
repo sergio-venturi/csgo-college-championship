@@ -37,7 +37,10 @@ dinheiro a organização.
 4. Formulários enviados sem terem pago a taxa de inscrição serão des-
 considerados
 
-5. A organização do evento se reserva ao direito de encerrar o período
+5. As inscriçōes serão abertas a tarde no dia 02/08 (quarta-feira) e se
+encerrarão meia-noite do dia 09/08 (quarta-feira).
+
+6. A organização do evento se reserva ao direito de encerrar o período
 de inscrição antes do prazo estabelecido caso o número máximo de
 equipes já tenha sido alcançado.
 
