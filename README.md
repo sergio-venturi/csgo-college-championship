@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Campeonato Universitário de CS:GO organizado pelo 
 
 ## Regulamento
 
-O regulamento oficial do campeonato pode ser encontrado no arquivo [portuguese-rulebook.md](portuguese-rulebook.md) ou no arquivo [Regulamento-v.1.8.pdf](Regulamento-v.1.8.pdf). Certifique-se de ler todas as regras e requisitos para participar do campeonato antes de se inscrever.
+O regulamento oficial do campeonato pode ser encontrado no arquivo [portuguese-rulebook.md](portuguese-rulebook.md). Certifique-se de ler todas as regras e requisitos para participar do campeonato antes de se inscrever.
 
 ## Sobre o Campeonato
 
