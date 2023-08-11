@@ -14,7 +14,7 @@ CS:GO.
 
 1. Todos os jogadores inscritos devem estar devidamente matriculados
 na Universidade do Vale do Itajaí na modalidade de ensino superior
-(professores universitários também serão aceitos).
+(professores universitários e egressos também serão aceitos).
 
 2. Egressos serão aceitos caso o número de equipes não atinja
 seu número máximo.
@@ -55,18 +55,16 @@ equipes já tenha sido alcançado.
   - Com base nos resultados das partidas desta fase, os quatro times com melhor desempenho avançam para a próxima fase.
   - Em caso de empate na pontuação, os critérios de desempate serão utilizados (primeiro, diferença de rounds; depois, confronto direto).
 
-|Figura 1 - Formato de Tabela paa a Primeira Fase|
+|Figura 1 - Formato de Tabela (Primeira Fase)|
 |:------:|
-| ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/tournament-brackets.png)|s|
+| ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/swiss-bracket.png)|s|
 
 3. Na segunda fase (mata-a-mata):
   - Os quatro times qualificados da Fase de Grupos avançam para a Fase de Playoff.
   - Os confrontos serão determinados com base na colocação dos times na Fase de Grupos: 1º x 4º e 2º x 3º.
   - As partidas dos Playoffs serão jogadas em formato melhor de 3 (BO3).
 
-
-
-|Figura 1 - Formato de Tabela|
+|Figura 1 - Formato de Tabela (Segunda Fase)|
 |:------:|
 | ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/tournament-brackets.png)|s|
 
