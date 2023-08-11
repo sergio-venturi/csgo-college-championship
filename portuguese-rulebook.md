@@ -46,24 +46,39 @@ equipes já tenha sido alcançado.
 
 ## Formato do Torneio
 
-1. O campeonato será realizado no formato mata-mata, onde as equipes
-jogam partidas umas contra as outra até que haja um vencedor.
+1. O campeonato será formado por duas fases, uma no formato suíço e outra em formato mata-a-mata.
+   
+2. Na primeira fase (suiço):
+  - Cada equipe jogará três (3) partidas contra outros times.
+  - As partidas serão jogadas no formato melhor de 1 (BO1).
+  - A pontuação será atribuída com 1 ponto por vitória, e 0 pontos por derrota.
+  - Com base nos resultados das partidas desta fase, os quatro times com melhor desempenho avançam para a próxima fase.
+  - Em caso de empate na pontuação, os critérios de desempate serão utilizados (primeiro, diferença de rounds; depois, confronto direto).
+
+|Figura 1 - Formato de Tabela paa a Primeira Fase|
+|:------:|
+| ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/tournament-brackets.png)|s|
+
+3. Na segunda fase (mata-a-mata):
+  - Os quatro times qualificados da Fase de Grupos avançam para a Fase de Playoff.
+  - Os confrontos serão determinados com base na colocação dos times na Fase de Grupos: 1º x 4º e 2º x 3º.
+  - As partidas dos Playoffs serão jogadas em formato melhor de 3 (BO3).
+
+
 
 |Figura 1 - Formato de Tabela|
 |:------:|
 | ![Formato de Tabela](https://github.com/sergio-venturi/csgo-college-championship/blob/main/tournament-brackets.png)|s|
 
-2. As partidas serão jogadas em formato melhor-de-um durante o torneio,
-semifinais e finais em formato melhor-de-três.
 
-3. Em caso de empate durante uma partida, um período de prorrogação
+4. Em caso de empate durante uma partida, um período de prorrogação
 será jogado para determinar o vencedor. O período de prorrogação
 será jogado em formato melhor-de-seis rounds.
 
-4. Os horários das partidas poderão ser adiantados, ficando a responsabilidade da equipe comparecer no novo horário. Atrasos não serão
+5. Os horários das partidas poderão ser adiantados, ficando a responsabilidade da equipe comparecer no novo horário. Atrasos não serão
 tolerados.
 
-5. A organização do evento se reserva ao direito de alterar o formato do
+6. A organização do evento se reserva ao direito de alterar o formato do
 torneio em caso de necessidade ou imprevistos.
 
 ## Mapas
